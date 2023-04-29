@@ -1,0 +1,46 @@
+body{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 90vh;
+    margin: 0;
+}
+
+
+div{
+    background-color: rgb(59, 21, 90);
+    padding: 30px;
+    border-radius: 10px;
+    width: 700px;
+    height: 450px;
+    align-items: center;
+    margin-top: -30px;
+}
+
+p{
+    font-size: x-large;
+}
+
+img{
+    max-width: 250px; 
+    max-height: 200px;
+    margin-left: -560px;
+    margin-bottom: -110px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    filter: drop-shadow(2px 4px 8px #050404);
+}
+
+input{
+    color: white;
+    background-color: #23d3eb;
+    padding: 6px;
+    font-size: large;
+    width: 120px;
+    border-radius: 20px;
+    border-style: solid;
+    border-color: #17727e;
+}
